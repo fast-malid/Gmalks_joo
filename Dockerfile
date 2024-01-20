@@ -1,6 +1,6 @@
-FROM zilzalll/zthon:slim-buster
+FROM fast-malid/hhhod_kdjd:slim-buster
 
-RUN git clone https://github.com/Zilzalll/ZThon.git /root/zira
+RUN git clone https://github.com/fast-malid/Hhhod_kdjd.git /root/zira
 
 WORKDIR /root/zira
 
